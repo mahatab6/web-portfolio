@@ -49,8 +49,59 @@ border-radius: 5px;
 border: none;
 }
 
+.con-btn {
+    background-color: #FD6E0A;
+    padding: 18px 35px 18px 35px;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 5px;
+    border: none;
+
+}
+
+.head-img {
+    background-image: url("./images/developer.png"), url("./images/header_bg.png");
+    background-repeat: no-repeat;
+    background-position: top left, bottom right;
+
+    
+}
+
+
 #size-1{
     margin-right: 50px;
     font-size: 20px;
     font-weight: bold;
 }
+
+.banner {
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 35px 0px 230px;
+}
+
+.banner-content {
+    width: 580px;
+}
+
+.banner-greetings {
+    font-size: 45px;
+    font-weight: 600;
+}
+
+.banner-heading {
+    font-size: 85px;
+    font-weight: bold;
+    color: #181818;
+}
+.banner-description {
+    color: #757575;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.banner-img {
+    width: 584px;
+}
+
