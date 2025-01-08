@@ -105,3 +105,48 @@ border: none;
     width: 584px;
 }
 
+
+.about {
+    background-color: #FFF8F3;
+    margin: 130px 230px 0px 230px;
+    text-align: center;
+    border-radius: 10px;
+
+    
+}
+
+.about-me {
+    padding: 130px 150px;
+    
+}
+
+.about-items {
+    display: flex;
+    justify-content: space-around;
+}
+
+.item-title {
+    color: #757575;
+    font-size: 20px; 
+    font-weight: 400;
+}
+
+.item-description {
+    color: #474747;
+    font-weight: bold;
+}
+
+.Below {
+    text-align: center;
+}
+
+.ido { padding-left: 717px;
+    padding-right: 717px;
+    padding-top: 130px;
+}
+
+.experience{
+    padding: 30px 345px 0px 345px;
+    font-size: 18px;
+    font-weight: 400;
+}
